@@ -1,0 +1,7 @@
+nav {width: 200px; float: left; padding-bottom: 20px;}
+nav a {display: block;}
+
+a {color: #000;}
+
+.clear {clear: both;}
+.container {width: 800px; float: left; padding-bottom: 20px;}
